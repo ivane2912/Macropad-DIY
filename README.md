@@ -141,12 +141,15 @@ Recommended settings: PLA or PETG, 0.2mm layer height, 20% infill.
 
 ```
 macropadDIY/
-├── macropadDIY.ino        # Main Arduino sketch
+├── codebase/             
+│   ├── macropadDIY
+│      └── macropadDIY.ino # Main Arduino sketch
 ├── sync_time.py           # Python script for time & volume sync
 ├── start_sync.bat         # Start sync in background
 ├── stop_sync.bat          # Stop sync
 ├── macropad_sync.bat      # For Windows auto-startup
-├── 3d-models/             # STL files for the case
+├── wiring-schema.fzz      # Wiring schema
+├── 3D projects/             # STL files for the case
 │   ├── case-top.stl
 │   └── case-bottom.stl
 └── README.md              # This documentation
