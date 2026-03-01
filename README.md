@@ -193,7 +193,7 @@ macropadDIY/
 
 ## 🎥 Demo
 
-https://github.com/ivane2912/Macropad-DIY/images/video.mp4
+[https://github.com/ivane2912/Macropad-DIY/images/video.mp4](https://github.com/user-attachments/assets/0cde5752-5ff9-4d08-832d-1f57f2d9c1bb)
 
 ## 📄 License
 
