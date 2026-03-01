@@ -178,6 +178,23 @@ macropadDIY/
 - Check the Windows keyboard layout (the sketch is optimized for US International)
 - Special characters (`&`, `"`, `/`) may vary depending on the layout
 
+## 📷 Gallery
+
+<table>
+  <tr>
+    <td><img src="images/front.png" width="400"></td>
+    <td><img src="images/right.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="images/left.png" width="400"></td>
+    <td><img src="images/back.png" width="400"></td>
+  </tr>
+</table>
+
+## 🎥 Demo
+
+https://github.com/ivane2912/Macropad-DIY/images/video.mp4
+
 ## 📄 License
 
 MIT License
